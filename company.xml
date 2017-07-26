@@ -1,0 +1,1438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="3M Company" label="3M Company">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1502.8002" y="330.76984"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="ACCO BRANDS CORPORATION" label="ACCO BRANDS CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1341.0718" y="76.843124"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="BASF SE" label="BASF SE">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1432.8517" y="-172.68112"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="Bayer AG" label="Bayer AG">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1758.9775" y="-457.08356"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="Alcatel-Lucent" label="Alcatel-Lucent">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.75"></viz:size>
+        <viz:position x="435.8605" y="698.8344"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="Avaya Inc." label="Avaya Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="766.169" y="609.7821"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="Brocade Communications Systems Inc." label="Brocade Communications Systems Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="241.9975" y="526.48285"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="CISCO SYSTEMS INC." label="CISCO SYSTEMS INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="591.4362" y="421.63562"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="ABBOTT LABORATORIES" label="ABBOTT LABORATORIES">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="2034.6671" y="-884.9251"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="Allergan Public Limited Company" label="Allergan Public Limited Company">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1971.5156" y="-1134.1212"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="ASTRAZENECA PLC" label="ASTRAZENECA PLC">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="1564.9253" y="-820.6811"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="C. R. Bard Inc." label="C. R. Bard Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1695.6381" y="-929.55646"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="ADVANCED MICRO DEVICES INC." label="ADVANCED MICRO DEVICES INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="18.75"></viz:size>
+        <viz:position x="983.6882" y="1742.2928"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="ARM HOLDINGS PLC" label="ARM HOLDINGS PLC">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="1302.4535" y="1511.3185"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Analog Devices Inc." label="Analog Devices Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="1531.6869" y="1321.1199"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Atmel Corporation" label="Atmel Corporation">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="1638.7437" y="1570.606"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="AIR PRODUCTS AND CHEMICALS INC." label="AIR PRODUCTS AND CHEMICALS INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="941.2887" y="-230.12575"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="ACETO CORPORATION" label="ACETO CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="739.60706" y="-451.1187"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="AIRGAS INC." label="AIRGAS INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="584.2628" y="-325.6786"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="ALSTOM" label="ALSTOM">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.5"></viz:size>
+        <viz:position x="-256.65973" y="330.10117"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="ABB Ltd" label="ABB Ltd">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="-683.9603" y="165.235"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="Amsted Industries Incorporated" label="Amsted Industries Incorporated">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-533.62634" y="535.3196"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="BWX Technologies Inc." label="BWX Technologies Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="-256.51205" y="121.45276"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="AMAZON.COM INC." label="AMAZON.COM INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="-294.1845" y="2244.0662"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Alibaba Group Services Limited" label="Alibaba Group Services Limited">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-344.59796" y="2644.4045"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="APPLE INC." label="APPLE INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="-231.51337" y="1972.2153"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Autonation Inc." label="Autonation Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-200.17035" y="2484.6982"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="ANALOGIC CORPORATION" label="ANALOGIC CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1785.4231" y="1290.6664"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Cirrus Logic Inc." label="Cirrus Logic Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1719.3777" y="1137.2112"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Lakestar Semi Inc" label="Lakestar Semi Inc">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="781.8885" y="1463.8875"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="AT&amp;T INC." label="AT&amp;T INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="640.44904" y="2033.6829"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="ACER INCORPORATED" label="ACER INCORPORATED">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="927.35596" y="2175.7002"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Adobe Systems Incorporated" label="Adobe Systems Incorporated">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="96.95178" y="2202.9705"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="BASF Coatings GmbH" label="BASF Coatings GmbH">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1056.277" y="-900.19727"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="Akzo Nobel N.V." label="Akzo Nobel N.V.">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="1071.8511" y="-715.1998"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="Axalta Coating Systems LLC" label="Axalta Coating Systems LLC">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1216.5615" y="-1184.2542"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="PPG Industries Inc." label="PPG Industries Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="895.8792" y="-1092.8723"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="Boehringer Ingelheim International GmbH" label="Boehringer Ingelheim International GmbH">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1872.7524" y="-662.31744"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="THE BOEING COMPANY" label="THE BOEING COMPANY">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="1067.289" y="2800.9893"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="AGUSTAWESTLAND HOLDINGS LIMITED" label="AGUSTAWESTLAND HOLDINGS LIMITED">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1435.1097" y="2920.199"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="AIRBUS SAS" label="AIRBUS SAS">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="724.6397" y="3054.3582"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="Airbus Group SE" label="Airbus Group SE">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="876.0746" y="2524.385"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="BRIDGESTONE CORPORATION" label="BRIDGESTONE CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1899.5977" y="402.2442"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="Acushnet Company" label="Acushnet Company">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="2322.8152" y="434.03986"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="Callaway Golf Company" label="Callaway Golf Company">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2335.2314" y="268.88812"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="BRISTOL-MYERS SQUIBB COMPANY" label="BRISTOL-MYERS SQUIBB COMPANY">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="2239.528" y="-1137.1322"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="ABBVIE INC." label="ABBVIE INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2540.8193" y="-1154.542"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="CANON INC." label="CANON INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="16.25"></viz:size>
+        <viz:position x="-43.533264" y="1206.7755"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ASML Holding N.V." label="ASML Holding N.V.">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="156.36542" y="1526.5432"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Agfa-Gevaert NV" label="Agfa-Gevaert NV">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="-399.08478" y="1137.4222"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Barco NV" label="Barco NV">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-152.38928" y="1499.3868"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="CASIO COMPUTER CO. LTD." label="CASIO COMPUTER CO. LTD.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="233.78758" y="1237.1663"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="FUJITSU LIMITED" label="FUJITSU LIMITED">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="16.25"></viz:size>
+        <viz:position x="84.62685" y="903.29156"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="THE DOW CHEMICAL COMPANY" label="THE DOW CHEMICAL COMPANY">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="1078.0386" y="-456.95523"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="Emerson Electric Co." label="Emerson Electric Co.">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-954.14825" y="101.48671"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="AMETEK INC." label="AMETEK INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1218.7427" y="255.64806"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="Cummins Inc." label="Cummins Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1242.7542" y="1.114685"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="Telefonaktiebolaget LM Ericsson" label="Telefonaktiebolaget LM Ericsson">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="294.90106" y="365.70438"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ACCENTURE PUBLIC LIMITED COMPANY" label="ACCENTURE PUBLIC LIMITED COMPANY">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="201.49792" y="90.17732"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="AMDOCS LTD" label="AMDOCS LTD">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="34.442413" y="342.15427"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Freescale Semiconductor Ltd." label="Freescale Semiconductor Ltd.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="2001.7788" y="1416.1685"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="CAVIUM INC." label="CAVIUM INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2176.9531" y="1110.6226"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="General Electric Company" label="General Electric Company">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-549.63116" y="352.52316"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="Agilent Technologies Inc." label="Agilent Technologies Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-777.2874" y="463.61032"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="BANK OF AMERICA CORPORATION" label="BANK OF AMERICA CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-997.7264" y="359.6719"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="Google Inc." label="Google Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-487.2694" y="1858.7267"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Aol Inc." label="Aol Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-992.1947" y="1712.3563"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="IAC SEARCH &amp; MEDIA INC." label="IAC SEARCH &amp; MEDIA INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-791.8543" y="1875.0936"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="HITACHI LTD." label="HITACHI LTD.">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="99.04869" y="667.46405"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="AREVA" label="AREVA">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="-142.9477" y="708.57104"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="HONEYWELL INTERNATIONAL INC." label="HONEYWELL INTERNATIONAL INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="754.7793" y="-68.854164"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="ABB AG" label="ABB AG">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="509.63843" y="71.07309"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="INTEL CORPORATION" label="INTEL CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="2620.5251" y="1464.9999"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Interdigital Inc." label="Interdigital Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="732.2104" y="1020.50824"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="IBM Microelectronics" label="IBM Microelectronics">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="406.80664" y="1005.389"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="Johnson Controls International plc" label="Johnson Controls International plc">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1945.8485" y="633.2816"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="A123 SYSTEMS LLC" label="A123 SYSTEMS LLC">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1098.6746" y="751.4196"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="Addison Hvac LLC" label="Addison Hvac LLC">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="1147.5359" y="451.7264"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="LG Electronics Inc." label="LG Electronics Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-530.73834" y="2413.8848"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Bsh Home Appliances Corporation" label="Bsh Home Appliances Corporation">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-937.90894" y="2584.3687"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="AB Electrolux" label="AB Electrolux">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-638.03674" y="2756.3452"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Lockheed Martin Corporation" label="Lockheed Martin Corporation">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="433.7693" y="2744.1138"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="ARIANESPACE" label="ARIANESPACE">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="284.20413" y="2965.1316"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="BAE SYSTEMS PLC" label="BAE SYSTEMS PLC">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.48685" y="2823.039"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="MAKITA CORPORATION" label="MAKITA CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1455.2141" y="748.57434"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="Marvell Technology Group Ltd" label="Marvell Technology Group Ltd">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1259.4501" y="1731.514"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="CSR LIMITED" label="CSR LIMITED">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1398.0969" y="1882.2185"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="MEDIATEK INC." label="MEDIATEK INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1413.9072" y="2150.6223"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Dsp Group Inc." label="Dsp Group Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1526.3445" y="2446.2256"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="HIMAX TECHNOLOGIES LIMITED" label="HIMAX TECHNOLOGIES LIMITED">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1770.8407" y="2327.8909"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="Micron Technology Inc." label="Micron Technology Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1970.6888" y="2043.9519"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="CYPRESS SEMICONDUCTOR CORPORATION" label="CYPRESS SEMICONDUCTOR CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2337.1624" y="2243.2615"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="INTEGRATED DEVICE TECHNOLOGY INC." label="INTEGRATED DEVICE TECHNOLOGY INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2506.1" y="2085.8428"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="MICROSOFT CORPORATION" label="MICROSOFT CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-65.116455" y="2352.6267"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="MITSUBISHI HEAVY INDUSTRIES LTD." label="MITSUBISHI HEAVY INDUSTRIES LTD.">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-464.4983" y="24.258942"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="Akastor ASA" label="Akastor ASA">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-729.9437" y="-80.75737"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="MITSUI CHEMICALS INC." label="MITSUI CHEMICALS INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1747.7737" y="-205.63988"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Alfa S.A.B. de C.V." label="Alfa S.A.B. de C.V.">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1987.9099" y="-192.17859"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ASAHI KASEI CORPORATION" label="ASAHI KASEI CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1996.462" y="-419.04178"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="NIKE Inc." label="NIKE Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="2077.0308" y="255.26378"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="ASICS CORPORATION" label="ASICS CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2348.6873" y="99.12277"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="Amer Sports Oyj" label="Amer Sports Oyj">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2307.2593" y="-189.57138"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="NITTO DENKO CORPORATION" label="NITTO DENKO CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1129.3792" y="188.30412"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="American Biltrite Inc." label="American Biltrite Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1017.19354" y="-29.443378"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="Avery Dennison Corporation" label="Avery Dennison Corporation">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1207.4526" y="-97.280365"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="Novartis AG" label="Novartis AG">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1739.0338" y="-1339.8789"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id=" ABBVIE INC." label=" ABBVIE INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1917.0565" y="-1441.6432"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="AMGEN INC." label="AMGEN INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="1465.3336" y="-1345.9288"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="NTT DATA CORPORATION" label="NTT DATA CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="310.384" y="-137.94498"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="CAP GEMINI" label="CAP GEMINI">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="339.20956" y="-371.87198"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="COMPUTER SCIENCES CORPORATION" label="COMPUTER SCIENCES CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="106.8541" y="-369.5363"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="OLYMPUS CORPORATION" label="OLYMPUS CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-546.9366" y="1340.064"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Carl Zeiss AG" label="Carl Zeiss AG">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-816.66785" y="1499.8009"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ORACLE CORPORATION" label="ORACLE CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-69.26079" y="-13.687393"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="AUTOMATIC DATA PROCESSING INC." label="AUTOMATIC DATA PROCESSING INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-179.57594" y="-229.35724"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Akana" label="Akana">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-451.21683" y="-144.31247"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="PANASONIC CORPORATION" label="PANASONIC CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="925.32086" y="1184.1174"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="BSH Hausger盲te GmbH" label="BSH Hausger盲te GmbH">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1010.4723" y="1145.6501"></viz:position>
+        <viz:color r="201" g="73" b="146"></viz:color>
+      </node>
+      <node id="QUALCOMM INCORPORATED" label="QUALCOMM INCORPORATED">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="524.79236" y="1276.0399"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Roche Holding AG" label="Roche Holding AG">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1595.1643" y="-1125.8259"></viz:position>
+        <viz:color r="209" g="64" b="88"></viz:color>
+      </node>
+      <node id="SAFRAN" label="SAFRAN">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1192.7249" y="3114.6748"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="Bae Systems Inc." label="Bae Systems Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1399.606" y="3240.6777"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="ELBIT SYSTEMS LTD" label="ELBIT SYSTEMS LTD">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1050.573" y="3293.571"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="Samsung Electronics Co. Ltd." label="Samsung Electronics Co. Ltd.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1022.6286" y="2017.7964"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="AU OPTRONICS CORP." label="AU OPTRONICS CORP.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1087.8231" y="2367.8386"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="SEAGATE TECHNOLOGY PUBLIC LIMITED COMPANY" label="SEAGATE TECHNOLOGY PUBLIC LIMITED COMPANY">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-345.17996" y="921.1603"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Hgst Inc." label="Hgst Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-725.35724" y="938.4049"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="IMATION CORP." label="IMATION CORP.">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-635.23627" y="749.3267"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="SEIKO EPSON CORPORATION" label="SEIKO EPSON CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1182.5962" y="2085.602"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="ADVANTEST CORPORATION" label="ADVANTEST CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1251.4791" y="2366.3625"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="SHIN-ETSU CHEMICAL CO. LTD." label="SHIN-ETSU CHEMICAL CO. LTD.">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="2275.1501" y="-405.0244"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ADEKA CORPORATION" label="ADEKA CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2697.1519" y="-441.51587"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ASAHI GLASS COMPANY LIMITED" label="ASAHI GLASS COMPANY LIMITED">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2591.9673" y="-272.76855"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SHOWA DENKO K.K." label="SHOWA DENKO K.K.">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="2187.976" y="-629.6528"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="ALCOA INC." label="ALCOA INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2489.7222" y="-744.33057"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="CHEVRON PHILLIPS CHEMICAL COMPANY LLC" label="CHEVRON PHILLIPS CHEMICAL COMPANY LLC">
+        <attvalues>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2376.7607" y="-882.9534"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Solvay Chemicals International SA" label="Solvay Chemicals International SA">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1336.3218" y="-415.15057"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="Natural Resources USA Corporation" label="Natural Resources USA Corporation">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1384.5052" y="-624.5594"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="SONY CORPORATION" label="SONY CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-758.6446" y="2176.148"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Bertelsmann SE &amp; Co. KGaA" label="Bertelsmann SE &amp; Co. KGaA">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1041.3009" y="2171.2827"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="Dell Technologies" label="Dell Technologies">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-973.88354" y="2369.0652"></viz:position>
+        <viz:color r="91" g="195" b="68"></viz:color>
+      </node>
+      <node id="TE Connectivity Ltd." label="TE Connectivity Ltd.">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="867.01556" y="351.797"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="AVX Corporation" label="AVX Corporation">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="757.4858" y="183.75204"></viz:position>
+        <viz:color r="105" g="144" b="37"></viz:color>
+      </node>
+      <node id="THALES" label="THALES">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="627.5668" y="2349.188"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="Aero Simulation Inc." label="Aero Simulation Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="317.8786" y="2480.0017"></viz:position>
+        <viz:color r="196" g="101" b="214"></viz:color>
+      </node>
+      <node id="TORAY INDUSTRIES INC." label="TORAY INDUSTRIES INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="740.47" y="-712.55865"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id=" BASF SE" label=" BASF SE">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="676.2251" y="-979.1965"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="COATS HOLDINGS LTD" label="COATS HOLDINGS LTD">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="479.3004" y="-820.57336"></viz:position>
+        <viz:color r="199" g="138" b="28"></viz:color>
+      </node>
+      <node id="TOSHIBA CORPORATION" label="TOSHIBA CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-438.19427" y="664.17114"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id=" ABB Ltd" label=" ABB Ltd">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="-681.5922" y="593.2704"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="Xilinx Inc." label="Xilinx Inc.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="1727.79" y="1997.8501"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id=" ADVANCED MICRO DEVICES INC." label=" ADVANCED MICRO DEVICES INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1943.0979" y="1771.4772"></viz:position>
+        <viz:color r="110" g="122" b="202"></viz:color>
+      </node>
+      <node id="YASKAWA ELECTRIC CORPORATION" label="YASKAWA ELECTRIC CORPORATION">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.5"></viz:size>
+        <viz:position x="-895.90784" y="606.0507"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="KUKA AG" label="KUKA AG">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1057.7817" y="738.87537"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+      <node id="MAGNETEK INC." label="MAGNETEK INC.">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1122.1307" y="581.9227"></viz:position>
+        <viz:color r="214" g="78" b="43"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="3M Company" target="ACCO BRANDS CORPORATION"></edge>
+      <edge id="1" source="3M Company" target="BASF SE"></edge>
+      <edge id="2" source="3M Company" target="Bayer AG"></edge>
+      <edge id="3" source="Alcatel-Lucent" target="Avaya Inc."></edge>
+      <edge id="4" source="Alcatel-Lucent" target="Brocade Communications Systems Inc."></edge>
+      <edge id="5" source="Alcatel-Lucent" target="CISCO SYSTEMS INC."></edge>
+      <edge id="6" source="ABBOTT LABORATORIES" target="Allergan Public Limited Company"></edge>
+      <edge id="7" source="ABBOTT LABORATORIES" target="ASTRAZENECA PLC"></edge>
+      <edge id="8" source="ABBOTT LABORATORIES" target="C. R. Bard Inc."></edge>
+      <edge id="9" source="ADVANCED MICRO DEVICES INC." target="ARM HOLDINGS PLC"></edge>
+      <edge id="10" source="ADVANCED MICRO DEVICES INC." target="Analog Devices Inc."></edge>
+      <edge id="11" source="ADVANCED MICRO DEVICES INC." target="Atmel Corporation"></edge>
+      <edge id="12" source="AIR PRODUCTS AND CHEMICALS INC." target="ACETO CORPORATION"></edge>
+      <edge id="13" source="AIR PRODUCTS AND CHEMICALS INC." target="AIRGAS INC."></edge>
+      <edge id="14" source="AIR PRODUCTS AND CHEMICALS INC." target="BASF SE"></edge>
+      <edge id="18" source="ALSTOM" target="ABB Ltd"></edge>
+      <edge id="19" source="ALSTOM" target="Amsted Industries Incorporated"></edge>
+      <edge id="20" source="ALSTOM" target="BWX Technologies Inc."></edge>
+      <edge id="21" source="AMAZON.COM INC." target="Alibaba Group Services Limited"></edge>
+      <edge id="22" source="AMAZON.COM INC." target="APPLE INC."></edge>
+      <edge id="23" source="AMAZON.COM INC." target="Autonation Inc."></edge>
+      <edge id="24" source="Analog Devices Inc." target="ANALOGIC CORPORATION"></edge>
+      <edge id="25" source="Analog Devices Inc." target="Cirrus Logic Inc."></edge>
+      <edge id="26" source="Analog Devices Inc." target="Lakestar Semi Inc"></edge>
+      <edge id="27" source="APPLE INC." target="AT&amp;T INC."></edge>
+      <edge id="28" source="APPLE INC." target="ACER INCORPORATED"></edge>
+      <edge id="29" source="APPLE INC." target="Adobe Systems Incorporated"></edge>
+      <edge id="33" source="BASF Coatings GmbH" target="Akzo Nobel N.V."></edge>
+      <edge id="34" source="BASF Coatings GmbH" target="Axalta Coating Systems LLC"></edge>
+      <edge id="35" source="BASF Coatings GmbH" target="PPG Industries Inc."></edge>
+      <edge id="36" source="Boehringer Ingelheim International GmbH" target="ABBOTT LABORATORIES"></edge>
+      <edge id="37" source="Boehringer Ingelheim International GmbH" target="ASTRAZENECA PLC"></edge>
+      <edge id="38" source="Boehringer Ingelheim International GmbH" target="Bayer AG"></edge>
+      <edge id="39" source="THE BOEING COMPANY" target="AGUSTAWESTLAND HOLDINGS LIMITED"></edge>
+      <edge id="40" source="THE BOEING COMPANY" target="AIRBUS SAS"></edge>
+      <edge id="41" source="THE BOEING COMPANY" target="Airbus Group SE"></edge>
+      <edge id="42" source="BRIDGESTONE CORPORATION" target="3M Company"></edge>
+      <edge id="43" source="BRIDGESTONE CORPORATION" target="Acushnet Company"></edge>
+      <edge id="44" source="BRIDGESTONE CORPORATION" target="Callaway Golf Company"></edge>
+      <edge id="45" source="BRISTOL-MYERS SQUIBB COMPANY" target="ABBVIE INC."></edge>
+      <edge id="46" source="BRISTOL-MYERS SQUIBB COMPANY" target="ABBOTT LABORATORIES"></edge>
+      <edge id="47" source="BRISTOL-MYERS SQUIBB COMPANY" target="Allergan Public Limited Company"></edge>
+      <edge id="48" source="CANON INC." target="ASML Holding N.V."></edge>
+      <edge id="49" source="CANON INC." target="Agfa-Gevaert NV"></edge>
+      <edge id="50" source="CANON INC." target="Barco NV"></edge>
+      <edge id="51" source="CASIO COMPUTER CO. LTD." target="APPLE INC."></edge>
+      <edge id="52" source="CASIO COMPUTER CO. LTD." target="CANON INC."></edge>
+      <edge id="53" source="CASIO COMPUTER CO. LTD." target="FUJITSU LIMITED"></edge>
+      <edge id="61" source="THE DOW CHEMICAL COMPANY" target="Akzo Nobel N.V."></edge>
+      <edge id="62" source="THE DOW CHEMICAL COMPANY" target="BASF SE"></edge>
+      <edge id="63" source="THE DOW CHEMICAL COMPANY" target="Bayer AG"></edge>
+      <edge id="64" source="Emerson Electric Co." target="ABB Ltd"></edge>
+      <edge id="65" source="Emerson Electric Co." target="AMETEK INC."></edge>
+      <edge id="66" source="Emerson Electric Co." target="Cummins Inc."></edge>
+      <edge id="67" source="Telefonaktiebolaget LM Ericsson" target="ACCENTURE PUBLIC LIMITED COMPANY"></edge>
+      <edge id="68" source="Telefonaktiebolaget LM Ericsson" target="Alcatel-Lucent"></edge>
+      <edge id="69" source="Telefonaktiebolaget LM Ericsson" target="AMDOCS LTD"></edge>
+      <edge id="73" source="Freescale Semiconductor Ltd." target="Analog Devices Inc."></edge>
+      <edge id="74" source="Freescale Semiconductor Ltd." target="Atmel Corporation"></edge>
+      <edge id="75" source="Freescale Semiconductor Ltd." target="CAVIUM INC."></edge>
+      <edge id="76" source="FUJITSU LIMITED" target="Alcatel-Lucent"></edge>
+      <edge id="77" source="FUJITSU LIMITED" target="CASIO COMPUTER CO. LTD."></edge>
+      <edge id="78" source="FUJITSU LIMITED" target="CANON INC."></edge>
+      <edge id="82" source="General Electric Company" target="ALSTOM"></edge>
+      <edge id="83" source="General Electric Company" target="Agilent Technologies Inc."></edge>
+      <edge id="84" source="General Electric Company" target="BANK OF AMERICA CORPORATION"></edge>
+      <edge id="85" source="Google Inc." target="Aol Inc."></edge>
+      <edge id="86" source="Google Inc." target="APPLE INC."></edge>
+      <edge id="87" source="Google Inc." target="IAC SEARCH &amp; MEDIA INC."></edge>
+      <edge id="88" source="HITACHI LTD." target="ALSTOM"></edge>
+      <edge id="89" source="HITACHI LTD." target="AREVA"></edge>
+      <edge id="90" source="HITACHI LTD." target="Alcatel-Lucent"></edge>
+      <edge id="91" source="HONEYWELL INTERNATIONAL INC." target="3M Company"></edge>
+      <edge id="92" source="HONEYWELL INTERNATIONAL INC." target="ABB AG"></edge>
+      <edge id="93" source="HONEYWELL INTERNATIONAL INC." target="AIR PRODUCTS AND CHEMICALS INC."></edge>
+      <edge id="97" source="INTEL CORPORATION" target="ADVANCED MICRO DEVICES INC."></edge>
+      <edge id="98" source="INTEL CORPORATION" target="ARM HOLDINGS PLC"></edge>
+      <edge id="99" source="INTEL CORPORATION" target="APPLE INC."></edge>
+      <edge id="100" source="Interdigital Inc." target="Alcatel-Lucent"></edge>
+      <edge id="101" source="Interdigital Inc." target="Lakestar Semi Inc"></edge>
+      <edge id="102" source="Interdigital Inc." target="IBM Microelectronics"></edge>
+      <edge id="103" source="Johnson Controls International plc" target="3M Company"></edge>
+      <edge id="104" source="Johnson Controls International plc" target="A123 SYSTEMS LLC"></edge>
+      <edge id="105" source="Johnson Controls International plc" target="Addison Hvac LLC"></edge>
+      <edge id="122" source="LG Electronics Inc." target="APPLE INC."></edge>
+      <edge id="123" source="LG Electronics Inc." target="Bsh Home Appliances Corporation"></edge>
+      <edge id="124" source="LG Electronics Inc." target="AB Electrolux"></edge>
+      <edge id="125" source="Lockheed Martin Corporation" target="Airbus Group SE"></edge>
+      <edge id="126" source="Lockheed Martin Corporation" target="ARIANESPACE"></edge>
+      <edge id="127" source="Lockheed Martin Corporation" target="BAE SYSTEMS PLC"></edge>
+      <edge id="128" source="MAKITA CORPORATION" target="3M Company"></edge>
+      <edge id="129" source="MAKITA CORPORATION" target="A123 SYSTEMS LLC"></edge>
+      <edge id="130" source="MAKITA CORPORATION" target="Addison Hvac LLC"></edge>
+      <edge id="131" source="Marvell Technology Group Ltd" target="ADVANCED MICRO DEVICES INC."></edge>
+      <edge id="132" source="Marvell Technology Group Ltd" target="Analog Devices Inc."></edge>
+      <edge id="133" source="Marvell Technology Group Ltd" target="CSR LIMITED"></edge>
+      <edge id="134" source="MEDIATEK INC." target="ADVANCED MICRO DEVICES INC."></edge>
+      <edge id="135" source="MEDIATEK INC." target="Dsp Group Inc."></edge>
+      <edge id="136" source="MEDIATEK INC." target="HIMAX TECHNOLOGIES LIMITED"></edge>
+      <edge id="137" source="Micron Technology Inc." target="Atmel Corporation"></edge>
+      <edge id="138" source="Micron Technology Inc." target="CYPRESS SEMICONDUCTOR CORPORATION"></edge>
+      <edge id="139" source="Micron Technology Inc." target="INTEGRATED DEVICE TECHNOLOGY INC."></edge>
+      <edge id="140" source="MICROSOFT CORPORATION" target="Adobe Systems Incorporated"></edge>
+      <edge id="141" source="MICROSOFT CORPORATION" target="AMAZON.COM INC."></edge>
+      <edge id="142" source="MICROSOFT CORPORATION" target="APPLE INC."></edge>
+      <edge id="146" source="MITSUBISHI HEAVY INDUSTRIES LTD." target="ALSTOM"></edge>
+      <edge id="147" source="MITSUBISHI HEAVY INDUSTRIES LTD." target="Akastor ASA"></edge>
+      <edge id="148" source="MITSUBISHI HEAVY INDUSTRIES LTD." target="BWX Technologies Inc."></edge>
+      <edge id="149" source="MITSUI CHEMICALS INC." target="Alfa S.A.B. de C.V."></edge>
+      <edge id="150" source="MITSUI CHEMICALS INC." target="ASAHI KASEI CORPORATION"></edge>
+      <edge id="151" source="MITSUI CHEMICALS INC." target="BASF SE"></edge>
+      <edge id="152" source="NIKE Inc." target="ASICS CORPORATION"></edge>
+      <edge id="153" source="NIKE Inc." target="Acushnet Company"></edge>
+      <edge id="154" source="NIKE Inc." target="Amer Sports Oyj"></edge>
+      <edge id="158" source="NITTO DENKO CORPORATION" target="3M Company"></edge>
+      <edge id="159" source="NITTO DENKO CORPORATION" target="American Biltrite Inc."></edge>
+      <edge id="160" source="NITTO DENKO CORPORATION" target="Avery Dennison Corporation"></edge>
+      <edge id="161" source="Novartis AG" target=" ABBVIE INC."></edge>
+      <edge id="162" source="Novartis AG" target="ABBOTT LABORATORIES"></edge>
+      <edge id="163" source="Novartis AG" target="AMGEN INC."></edge>
+      <edge id="164" source="NTT DATA CORPORATION" target="ACCENTURE PUBLIC LIMITED COMPANY"></edge>
+      <edge id="165" source="NTT DATA CORPORATION" target="CAP GEMINI"></edge>
+      <edge id="166" source="NTT DATA CORPORATION" target="COMPUTER SCIENCES CORPORATION"></edge>
+      <edge id="167" source="OLYMPUS CORPORATION" target="Agfa-Gevaert NV"></edge>
+      <edge id="168" source="OLYMPUS CORPORATION" target="CANON INC."></edge>
+      <edge id="169" source="OLYMPUS CORPORATION" target="Carl Zeiss AG"></edge>
+      <edge id="170" source="ORACLE CORPORATION" target="AUTOMATIC DATA PROCESSING INC."></edge>
+      <edge id="171" source="ORACLE CORPORATION" target="ACCENTURE PUBLIC LIMITED COMPANY"></edge>
+      <edge id="172" source="ORACLE CORPORATION" target="Akana"></edge>
+      <edge id="173" source="PANASONIC CORPORATION" target="A123 SYSTEMS LLC"></edge>
+      <edge id="174" source="PANASONIC CORPORATION" target="APPLE INC."></edge>
+      <edge id="175" source="PANASONIC CORPORATION" target="BSH Hausger盲te GmbH"></edge>
+      <edge id="179" source="QUALCOMM INCORPORATED" target="APPLE INC."></edge>
+      <edge id="180" source="QUALCOMM INCORPORATED" target="FUJITSU LIMITED"></edge>
+      <edge id="181" source="QUALCOMM INCORPORATED" target="IBM Microelectronics"></edge>
+      <edge id="182" source="Roche Holding AG" target="ABBOTT LABORATORIES"></edge>
+      <edge id="183" source="Roche Holding AG" target="Allergan Public Limited Company"></edge>
+      <edge id="184" source="Roche Holding AG" target="AMGEN INC."></edge>
+      <edge id="185" source="SAFRAN" target="Bae Systems Inc."></edge>
+      <edge id="186" source="SAFRAN" target="THE BOEING COMPANY"></edge>
+      <edge id="187" source="SAFRAN" target="ELBIT SYSTEMS LTD"></edge>
+      <edge id="191" source="Samsung Electronics Co. Ltd." target="ADVANCED MICRO DEVICES INC."></edge>
+      <edge id="192" source="Samsung Electronics Co. Ltd." target="AU OPTRONICS CORP."></edge>
+      <edge id="193" source="Samsung Electronics Co. Ltd." target="APPLE INC."></edge>
+      <edge id="194" source="SEAGATE TECHNOLOGY PUBLIC LIMITED COMPANY" target="FUJITSU LIMITED"></edge>
+      <edge id="195" source="SEAGATE TECHNOLOGY PUBLIC LIMITED COMPANY" target="Hgst Inc."></edge>
+      <edge id="196" source="SEAGATE TECHNOLOGY PUBLIC LIMITED COMPANY" target="IMATION CORP."></edge>
+      <edge id="197" source="SEIKO EPSON CORPORATION" target="ADVANCED MICRO DEVICES INC."></edge>
+      <edge id="198" source="SEIKO EPSON CORPORATION" target="ACER INCORPORATED"></edge>
+      <edge id="199" source="SEIKO EPSON CORPORATION" target="ADVANTEST CORPORATION"></edge>
+      <edge id="200" source="SHIN-ETSU CHEMICAL CO. LTD." target="ADEKA CORPORATION"></edge>
+      <edge id="201" source="SHIN-ETSU CHEMICAL CO. LTD." target="ASAHI GLASS COMPANY LIMITED"></edge>
+      <edge id="202" source="SHIN-ETSU CHEMICAL CO. LTD." target="ASAHI KASEI CORPORATION"></edge>
+      <edge id="203" source="SHOWA DENKO K.K." target="ALCOA INC."></edge>
+      <edge id="204" source="SHOWA DENKO K.K." target="ASAHI KASEI CORPORATION"></edge>
+      <edge id="205" source="SHOWA DENKO K.K." target="CHEVRON PHILLIPS CHEMICAL COMPANY LLC"></edge>
+      <edge id="206" source="Solvay Chemicals International SA" target="Natural Resources USA Corporation"></edge>
+      <edge id="207" source="Solvay Chemicals International SA" target="BASF SE"></edge>
+      <edge id="208" source="Solvay Chemicals International SA" target="THE DOW CHEMICAL COMPANY"></edge>
+      <edge id="209" source="SONY CORPORATION" target="APPLE INC."></edge>
+      <edge id="210" source="SONY CORPORATION" target="Bertelsmann SE &amp; Co. KGaA"></edge>
+      <edge id="211" source="SONY CORPORATION" target="Dell Technologies"></edge>
+      <edge id="218" source="TE Connectivity Ltd." target="3M Company"></edge>
+      <edge id="219" source="TE Connectivity Ltd." target="AVX Corporation"></edge>
+      <edge id="220" source="TE Connectivity Ltd." target="Alcatel-Lucent"></edge>
+      <edge id="221" source="THALES" target="AT&amp;T INC."></edge>
+      <edge id="222" source="THALES" target="Aero Simulation Inc."></edge>
+      <edge id="223" source="THALES" target="Airbus Group SE"></edge>
+      <edge id="224" source="TORAY INDUSTRIES INC." target=" BASF SE"></edge>
+      <edge id="225" source="TORAY INDUSTRIES INC." target="COATS HOLDINGS LTD"></edge>
+      <edge id="226" source="TORAY INDUSTRIES INC." target="THE DOW CHEMICAL COMPANY"></edge>
+      <edge id="227" source="TOSHIBA CORPORATION" target=" ABB Ltd"></edge>
+      <edge id="228" source="TOSHIBA CORPORATION" target="ALSTOM"></edge>
+      <edge id="229" source="TOSHIBA CORPORATION" target="AREVA"></edge>
+      <edge id="236" source="Xilinx Inc." target=" ADVANCED MICRO DEVICES INC."></edge>
+      <edge id="237" source="Xilinx Inc." target="Analog Devices Inc."></edge>
+      <edge id="238" source="Xilinx Inc." target="Atmel Corporation"></edge>
+      <edge id="242" source="YASKAWA ELECTRIC CORPORATION" target=" ABB Ltd"></edge>
+      <edge id="243" source="YASKAWA ELECTRIC CORPORATION" target="KUKA AG"></edge>
+      <edge id="244" source="YASKAWA ELECTRIC CORPORATION" target="MAGNETEK INC."></edge>
+    </edges>
+  </graph>
+</gexf>
