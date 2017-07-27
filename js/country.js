@@ -304,7 +304,7 @@ option = {
     },
     tooltip : {
         trigger: 'item',
-        triggerOn:'click',
+        // triggerOn:'click',
         textStyle:{
             color:"white",
         },
