@@ -255,3 +255,28 @@ $("#btn_search").click(function () {
     console.log($("#input_search").val() + "h");
 
 });
+
+$("#echarts1").dblclick(function(){
+    myChart.dispatchAction({
+        type: 'unfocusNodeAdjacency',
+        seriesIndex: 0,
+    })
+});
+$(function () {
+    $(document).keydown(function (event) {
+        if (event.keyCode == 13) {
+            $("#btn_search").click();
+        }
+    })
+})
+
+$(function () {
+    $(document).keydown(function (event) {
+        if (event.keyCode == 27) {
+            myChart.dispatchAction({
+                type: 'unfocusNodeAdjacency',
+                seriesIndex: 0,
+            })
+        }
+    })
+})

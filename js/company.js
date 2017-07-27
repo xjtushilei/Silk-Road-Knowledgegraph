@@ -179,27 +179,26 @@ option = {
 
 // myChart.setOption(option);
 
-var clicktemp=-1
+var clicktemp = -1
 myChart.on('click', function (node) {
     if (node.dataType == 'node') {
         //node.value 是 id   可以打印node看数据怎么存储的
 //              这里放具体的操作
         console.log(node)
-        if(node.dataIndex==clicktemp){
+        if (node.dataIndex == clicktemp) {
             myChart.dispatchAction({
                 type: 'unfocusNodeAdjacency',
                 seriesIndex: 0
             })
-            clicktemp=-1
+            clicktemp = -1
         }
-        else
-        {
+        else {
             myChart.dispatchAction({
                 type: 'focusNodeAdjacency',
                 seriesIndex: 0,
                 dataIndex: node.dataIndex
             })
-            clicktemp=node.dataIndex
+            clicktemp = node.dataIndex
         }
     }
 
@@ -234,3 +233,29 @@ $("#btn_search").click(function () {
     console.log($("#input_search").val() + "h");
 
 });
+
+$("#echarts1").dblclick(function () {
+    myChart.dispatchAction({
+        type: 'unfocusNodeAdjacency',
+        seriesIndex: 0,
+    })
+});
+
+$(function () {
+    $(document).keydown(function (event) {
+        if (event.keyCode == 13) {
+            $("#btn_search").click();
+        }
+    })
+})
+
+$(function () {
+    $(document).keydown(function (event) {
+        if (event.keyCode == 27) {
+            myChart.dispatchAction({
+                type: 'unfocusNodeAdjacency',
+                seriesIndex: 0,
+            })
+        }
+    })
+})
