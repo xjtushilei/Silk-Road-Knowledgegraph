@@ -9,6 +9,7 @@ github pages项目展示: https://xjtushilei.github.io/Silk-Road-Knowledgegraph/
 
 # 功能介绍
 
+- 鼠标浮动，显示细节信息
 - 点击任何节点，显示相关联子图
 - 双击图案区域空白处，取消子图；
 - 按“Enter”键进行搜索
